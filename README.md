@@ -36,7 +36,7 @@ A simple and effective calculator app built using **HTML, CSS, and JavaScript**.
 
 ### 🔗 Portfolio & Contact
 
-- **Portfolio:** [Visit my portfolio](https://vercel.com/naveen2003-desigbs-projects?repo=https://github.com/Naveen2003-desigb/portfolio)
+- **Portfolio:** [Visit my portfolio](https://portfolio-psi-ten-b6ajrnvv85.vercel.app/)
 - **Email:** [hnaveensamraj@gmail.com](mailto:hnaveensamraj@gmail.com)
 - **Phone:** 9943269660
 - **GitHub:** [Naveen2003-desigb](https://github.com/Naveen2003-desigb)
