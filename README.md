@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naveen Sam Raj
 
-<img src="https://avatars.githubusercontent.com/Naveen2003-desigb" width="120" alt="Naveen Sam Raj profile picture" />
+
 
 ## 🚀 Full Stack Developer
 
